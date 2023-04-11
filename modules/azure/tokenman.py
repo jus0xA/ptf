@@ -7,7 +7,7 @@
 AUTHOR="Justin Baker (jus0xA)"
 
 # DESCRIPTION OF THE MODULE
-DESCRIPTION="This module will install/update TokenMan - and access and refresh token suite for AAD"
+DESCRIPTION="This module will install/update TokenMan - an access and refresh token suite for AAD"
 
 # INSTALL TYPE GIT, SVN, FILE DOWNLOAD
 # OPTIONS = GIT, SVN, FILE
